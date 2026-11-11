@@ -2,6 +2,13 @@
 
 [Alle Testversionen und Downloads](https://github.com/7chrizz/chill-lounge-downloads/releases)
 
+## Dauerhafte Links zur neuesten Veröffentlichung
+
+- [Fire OS 6](https://github.com/7chrizz/chill-lounge-downloads/releases/latest/download/Chill-Lounge-FireOS6.apk)
+- [Fire OS 7 und 8](https://github.com/7chrizz/chill-lounge-downloads/releases/latest/download/Chill-Lounge-FireOS7-8.apk)
+
+Diese Links sind für dauerhafte Downloader-Codes gedacht. Jede neue als „Latest“ festgelegte Veröffentlichung muss beide APKs unter exakt diesen Dateinamen enthalten. Die Versionsnummer steht weiterhin in der App und im Release. Die aktuell angebotene Version bleibt eine Testversion.
+
 ## Version 0.135
 
 - [Fire OS 6 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.135/Chill-Lounge-0.135-FireOS6-Test.apk)
