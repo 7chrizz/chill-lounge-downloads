@@ -2,6 +2,17 @@
 
 [Alle Testversionen und Downloads](https://github.com/7chrizz/chill-lounge-downloads/releases)
 
+## Dauerhafte Downloader-Codes
+
+Im Downloader auf dem Fire TV den passenden Zahlencode eingeben:
+
+| Fire-TV-Betriebssystem | Downloader-Code | Kurzlink |
+| --- | --- | --- |
+| **Fire OS 6** | **8127096** | [aftv.news/8127096](https://aftv.news/8127096) |
+| **Fire OS 7 und 8** | **8742428** | [aftv.news/8742428](https://aftv.news/8742428) |
+
+Die Codes führen zur jeweils neuesten als „Latest“ veröffentlichten APK der gewählten Variante. Für spätere Updates denselben Code erneut verwenden und über die vorhandene App installieren. Die Installation startet nicht automatisch.
+
 ## Dauerhafte Links zur neuesten Veröffentlichung
 
 - [Fire OS 6](https://github.com/7chrizz/chill-lounge-downloads/releases/latest/download/Chill-Lounge-FireOS6.apk)
