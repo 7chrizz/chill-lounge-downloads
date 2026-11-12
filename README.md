@@ -20,10 +20,10 @@ Die Codes führen zur jeweils neuesten als „Latest“ veröffentlichten APK de
 
 Diese Links sind für dauerhafte Downloader-Codes gedacht. Jede neue als „Latest“ festgelegte Veröffentlichung muss beide APKs unter exakt diesen Dateinamen enthalten. Die Versionsnummer steht weiterhin in der App und im Release. Die aktuell angebotene Version bleibt eine Testversion.
 
-## Version 0.142
+## Version 0.145
 
-- [Fire OS 6 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.142/Chill-Lounge-0.142-FireOS6-Test.apk)
-- [Fire OS 7 und 8 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.142/Chill-Lounge-0.142-FireOS7-8-Test.apk)
+- [Fire OS 6 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.145/Chill-Lounge-0.145-FireOS6-Test.apk)
+- [Fire OS 7 und 8 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.145/Chill-Lounge-0.145-FireOS7-8-Test.apk)
 
 Die APK-Links können direkt in Downloader eingegeben werden. Serveradresse, Benutzername und Passwort sind bei einer frischen Installation leer. Es sind keine Sender oder Inhalte enthalten.
 
