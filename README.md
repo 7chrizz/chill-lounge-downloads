@@ -20,10 +20,31 @@ Die Codes führen zur jeweils neuesten als „Latest“ veröffentlichten APK de
 
 Diese Links sind für dauerhafte Downloader-Codes gedacht. Jede neue als „Latest“ festgelegte Veröffentlichung muss beide APKs unter exakt diesen Dateinamen enthalten. Die Versionsnummer steht weiterhin in der App und im Release. Die aktuell angebotene Version bleibt eine Testversion.
 
-## Version 0.147
+## Einmalige Freigabe für Installation und App-Updates
 
-- [Fire OS 6 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.147/Chill-Lounge-0.147-FireOS6-Test.apk)
-- [Fire OS 7 und 8 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.147/Chill-Lounge-0.147-FireOS7-8-Test.apk)
+Chill Lounge wird als APK außerhalb des Amazon Appstores installiert. Deshalb fragt Fire TV nach einer Freigabe für „Unbekannte Apps installieren“. Diese Abfrage ist bei dieser Installationsart zu erwarten; sie ist kein Hinweis auf einen fehlgeschlagenen Download.
+
+- **Erste Installation über Downloader:** Die Installation für **Downloader** erlauben.
+- **Updates direkt aus Chill Lounge:** Zusätzlich einmal die Installation für **Chill Lounge** erlauben. Die Freigabe für Downloader allein reicht dafür nicht.
+
+Auf Fire OS 7/8 findest du die Freigabe üblicherweise unter **Einstellungen → Mein Fire TV → Entwickleroptionen → Unbekannte Apps installieren → Chill Lounge → AN**. Die App versucht, die passende Einstellungsseite zu öffnen. Danach mit der Zurück-Taste zu Chill Lounge wechseln und erneut **Installieren** wählen.
+
+Auf Fire OS 6 kann der Menüpunkt stattdessen **„Apps unbekannter Herkunft“** heißen und als allgemeiner Schalter erscheinen. Die Bezeichnung kann je nach Gerät abweichen.
+
+Erlaube dies nur für Apps und APKs, deren Quelle du vertraust. Verwende für Chill Lounge die Downloads aus diesem Repository oder die oben genannten Downloader-Codes. Die Freigabe ist keine Sicherheitsgarantie für beliebige APKs. Sie kann später in den Einstellungen wieder deaktiviert werden.
+
+Die abschließende Installationsbestätigung erfolgt weiterhin am Fire TV. Bei einem normalen Update **über die vorhandene App** bleiben Anmeldung, Profile und gespeicherte Daten erhalten – dafür die App nicht vorher deinstallieren.
+
+## Updates direkt in Chill Lounge
+
+Ab Version **0.151**: **Profil-Smiley → Versionsanzeige → Nach Updates suchen → Herunterladen → Installieren**.
+
+**Wichtig bei Version 0.149/0.150:** Diese Versionen enthalten einen Fehler beim Öffnen des Installers. Die Korrektur 0.151 einmal über Downloader installieren. Danach steht der korrigierte Update-Ablauf für zukünftige Versionen zur Verfügung.
+
+## Version 0.151
+
+- [Fire OS 6 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.151/Chill-Lounge-0.151-FireOS6-Test.apk)
+- [Fire OS 7 und 8 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.151/Chill-Lounge-0.151-FireOS7-8-Test.apk)
 
 Die APK-Links können direkt in Downloader eingegeben werden. Serveradresse, Benutzername und Passwort sind bei einer frischen Installation leer. Es sind keine Sender oder Inhalte enthalten.
 
