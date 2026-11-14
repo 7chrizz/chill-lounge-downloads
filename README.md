@@ -24,12 +24,18 @@ Diese Links sind für dauerhafte Downloader-Codes gedacht. Jede neue als „Late
 
 Chill Lounge wird als APK außerhalb des Amazon Appstores installiert. Deshalb fragt Fire TV nach einer Freigabe für „Unbekannte Apps installieren“. Diese Abfrage ist bei dieser Installationsart zu erwarten; sie ist kein Hinweis auf einen fehlgeschlagenen Download.
 
+**Fire OS 7/8 – Freigabe pro App:**
+
 - **Erste Installation über Downloader:** Die Installation für **Downloader** erlauben.
 - **Updates direkt aus Chill Lounge:** Zusätzlich einmal die Installation für **Chill Lounge** erlauben. Die Freigabe für Downloader allein reicht dafür nicht.
 
 Auf Fire OS 7/8 findest du die Freigabe üblicherweise unter **Einstellungen → Mein Fire TV → Entwickleroptionen → Unbekannte Apps installieren → Chill Lounge → AN**. Die App versucht, die passende Einstellungsseite zu öffnen. Danach mit der Zurück-Taste zu Chill Lounge wechseln und erneut **Installieren** wählen.
 
-Auf Fire OS 6 kann der Menüpunkt stattdessen **„Apps unbekannter Herkunft“** heißen und als allgemeiner Schalter erscheinen. Die Bezeichnung kann je nach Gerät abweichen.
+**Fire OS 6 – allgemeiner Schalter:**
+
+Unter **Einstellungen → Mein Fire TV → Entwickleroptionen → Apps unbekannter Herkunft** den Schalter auf **AN** stellen. In dieser Ansicht gibt es keine separate Auswahl für Chill Lounge oder Downloader: **Chill Lounge muss dort nicht einzeln ausgewählt oder freigegeben werden.** Steht bereits **AN** darunter, ist die Freigabe aktiv.
+
+**ADB-Debugging kann AUS bleiben**; es wird für die Installation nicht benötigt. Danach zurück zu Downloader beziehungsweise Chill Lounge wechseln und **Installieren** wählen. Die Menübezeichnungen können je nach Gerät abweichen.
 
 Erlaube dies nur für Apps und APKs, deren Quelle du vertraust. Verwende für Chill Lounge die Downloads aus diesem Repository oder die oben genannten Downloader-Codes. Die Freigabe ist keine Sicherheitsgarantie für beliebige APKs. Sie kann später in den Einstellungen wieder deaktiviert werden.
 
