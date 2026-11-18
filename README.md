@@ -1,6 +1,6 @@
 # Chill Lounge – Downloads
 
-[Alle Testversionen und Downloads](https://github.com/7chrizz/chill-lounge-downloads/releases)
+[Alle Versionen und Downloads](https://github.com/7chrizz/chill-lounge-downloads/releases)
 
 ## Dauerhafte Downloader-Codes
 
@@ -18,7 +18,7 @@ Die Codes führen zur jeweils neuesten als „Latest“ veröffentlichten APK de
 - [Fire OS 6](https://github.com/7chrizz/chill-lounge-downloads/releases/latest/download/Chill-Lounge-FireOS6.apk)
 - [Fire OS 7 und 8](https://github.com/7chrizz/chill-lounge-downloads/releases/latest/download/Chill-Lounge-FireOS7-8.apk)
 
-Diese Links sind für dauerhafte Downloader-Codes gedacht. Jede neue als „Latest“ festgelegte Veröffentlichung muss beide APKs unter exakt diesen Dateinamen enthalten. Die Versionsnummer steht weiterhin in der App und im Release. Die aktuell angebotene Version bleibt eine Testversion.
+Diese Links sind für dauerhafte Downloader-Codes gedacht. Jede neue als „Latest“ festgelegte Veröffentlichung muss beide APKs unter exakt diesen Dateinamen enthalten. Die Versionsnummer steht weiterhin in der App und im Release. Ab Version 0.153 wird die Version ohne „Test“-Zusatz und mit der passenden Fire-OS-Variante angezeigt.
 
 ## Einmalige Freigabe für Installation und App-Updates
 
@@ -45,12 +45,14 @@ Die abschließende Installationsbestätigung erfolgt weiterhin am Fire TV. Bei e
 
 Ab Version **0.151**: **Profil-Smiley → Versionsanzeige → Nach Updates suchen → Herunterladen → Installieren**.
 
-**Wichtig bei Version 0.149/0.150:** Diese Versionen enthalten einen Fehler beim Öffnen des Installers. Die Korrektur 0.151 einmal über Downloader installieren. Danach steht der korrigierte Update-Ablauf für zukünftige Versionen zur Verfügung.
+**Wichtig bei Version 0.149/0.150:** Diese Versionen enthalten einen Fehler beim Öffnen des Installers. Die neueste Version einmal über Downloader installieren. Danach steht der korrigierte Update-Ablauf für zukünftige Versionen zur Verfügung.
 
-## Version 0.151
+Die Updatesuche bietet direkt die neueste freigegebene Version an. Zwischenversionen werden übersprungen und müssen nicht einzeln installiert werden.
 
-- [Fire OS 6 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.151/Chill-Lounge-0.151-FireOS6-Test.apk)
-- [Fire OS 7 und 8 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.151/Chill-Lounge-0.151-FireOS7-8-Test.apk)
+## Version 0.153
+
+- [Fire OS 6 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.153/Chill-Lounge-0.153-FireOS6.apk)
+- [Fire OS 7 und 8 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.153/Chill-Lounge-0.153-FireOS7-8.apk)
 
 Die APK-Links können direkt in Downloader eingegeben werden. Serveradresse, Benutzername und Passwort sind bei einer frischen Installation leer. Es sind keine Sender oder Inhalte enthalten.
 
