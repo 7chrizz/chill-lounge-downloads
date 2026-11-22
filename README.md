@@ -49,10 +49,10 @@ Ab Version **0.151**: **Profil-Smiley → Versionsanzeige → Nach Updates suche
 
 Die Updatesuche bietet direkt die neueste freigegebene Version an. Zwischenversionen werden übersprungen und müssen nicht einzeln installiert werden.
 
-## Version 0.174
+## Version 0.175
 
-- [Fire OS 6 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.174/Chill-Lounge-0.174-FireOS6.apk)
-- [Fire OS 7 und 8 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.174/Chill-Lounge-0.174-FireOS7-8.apk)
+- [Fire OS 6 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.175/Chill-Lounge-0.175-FireOS6.apk)
+- [Fire OS 7 und 8 – APK herunterladen](https://github.com/7chrizz/chill-lounge-downloads/releases/download/v0.175/Chill-Lounge-0.175-FireOS7-8.apk)
 
 Die APK-Links können direkt in Downloader eingegeben werden. Serveradresse, Benutzername und Passwort sind bei einer frischen Installation leer. Es sind keine Sender oder Inhalte enthalten.
 
